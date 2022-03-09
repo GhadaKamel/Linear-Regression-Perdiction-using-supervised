@@ -1,4 +1,4 @@
 # Liner-Regression-perdiction-using-supervised
 #TASK-01
-   Prediction using supervised 
+   Prediction using Supervised Machine Learning (ML)
 
